@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spam-Viewer\n"
+"Last-Translator: \n"
+"Language-Team: Dimitar Kolevski <dimitar.kolevski@mail.bg>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: spam_viewer.php:24
+msgid "from"
+msgstr "от"
+
+#: spam_viewer.php:82
+msgid "Spam comments destroyed!"
+msgstr "Спам коментари унищожена!"
+
+#: spam_viewer.php:96
+msgid "Trackback-Spamentries destroyed!"
+msgstr "Trackback-Spamentries унищожена!"
+
+#: spam_viewer.php:106
+msgid "No comments selected."
+msgstr "Няма коментари избран."
+
+#: spam_viewer.php:118
+#, php-format
+msgid "%s entry unspam."
+msgstr "%s влизане unspam."
+
+#: spam_viewer.php:120
+#, php-format
+msgid "%s entries unspam."
+msgstr "%s влизане unspam."
+
+#: spam_viewer.php:127
+msgid "Spam Viewer"
+msgstr "Spam Viewer"
+
+#: spam_viewer.php:130
+msgid "The Spam Viewer allows you to delete or rescue any comments marked as Spam out of your database.<br />"
+msgstr "Viewer Спам ви позволява да изтриете или да бъдат спасени всички коментари, маркирани като спам от вашата база данни. <br />"
+
+#: spam_viewer.php:131
+msgid "<strong>Warning: Once started, deletion cannot be cancelled.</strong><br />"
+msgstr "<strong> Внимание: След като започна, заличаване не може да бъде отменен </ STRONG> <br />."
+
+#: spam_viewer.php:132
+msgid "All comments marked as Spam in the WordPress table <em>comments</em> is listed below"
+msgstr "Всички коментари, маркирани като спам в таблицата WordPress <em> коментари </ EM>, изброени по-долу"
+
+#: spam_viewer.php:134
+msgid " and from the plugin <a href='http://seclab.cs.rice.edu/proj/trackback/trackback-validator-plugin/'>Trackback Validator</a> in the table <em>wp_data</em>"
+msgstr "и от плъгин <a href='http://seclab.cs.rice.edu/proj/trackback/trackback-validator-plugin/'> Trackback Validator </A> в таблицата <em> wp_data </ EM>"
+
+#: spam_viewer.php:139
+msgid "<strong>Congratulations</strong>, you are free of Spam!"
+msgstr "<strong> Поздравления </STRONG>, вие сте свободни спам!"
+
+#: spam_viewer.php:145
+msgid "There currently are no trackback spams"
+msgstr "В момента не са Trackback спам"
+
+#: spam_viewer.php:147
+msgid "The current total is:"
+msgstr "Текущата е:"
+
+#: spam_viewer.php:147
+#: spam_viewer.php:153
+msgid "to the entry"
+msgstr "влизането"
+
+#: spam_viewer.php:147
+#: spam_viewer.php:149
+msgid "Trackback"
+msgstr "Trackback"
+
+#: spam_viewer.php:149
+msgid "The current total is"
+msgstr "Настоящото му ниво е"
+
+#: spam_viewer.php:149
+#: spam_viewer.php:155
+msgid "to the entries"
+msgstr "вписванията"
+
+#: spam_viewer.php:151
+msgid " and no comments identified as Spam."
+msgstr "Няма коментари идентифицирани като спам."
+
+#: spam_viewer.php:153
+#: spam_viewer.php:155
+msgid " and"
+msgstr "и"
+
+#: spam_viewer.php:153
+msgid "comment"
+msgstr "коментар"
+
+#: spam_viewer.php:153
+#: spam_viewer.php:155
+msgid "identified as Spam."
+msgstr "идентифицирани като спам."
+
+#: spam_viewer.php:155
+msgid "comments"
+msgstr "коментари"
+
+#: spam_viewer.php:160
+msgid "Trackback-Spam - All delete!"
+msgstr "Trackback-Spam - ​​Всички изтриете!"
+
+#: spam_viewer.php:166
+msgid "Comment Spam - Delete All!&nbsp;"
+msgstr "Коментар Спам - Delete All!"
+
+#: spam_viewer.php:175
+msgid "Trackback-Spam"
+msgstr "Trackback-Spam"
+
+#: spam_viewer.php:178
+#: spam_viewer.php:248
+#: spam_viewer.php:259
+#: spam_viewer.php:336
+msgid "Unspam me!"
+msgstr "Unspam ми!"
+
+#: spam_viewer.php:182
+#: spam_viewer.php:263
+msgid "Unspam?"
+msgstr "Unspam?"
+
+#: spam_viewer.php:183
+#: spam_viewer.php:264
+msgid "ID"
+msgstr "ID"
+
+#: spam_viewer.php:184
+#: spam_viewer.php:265
+msgid "Post-ID"
+msgstr "Post-ID"
+
+#: spam_viewer.php:185
+#: spam_viewer.php:266
+msgid "Author"
+msgstr "автор"
+
+#: spam_viewer.php:186
+#: spam_viewer.php:267
+msgid "URL"
+msgstr "URL"
+
+#: spam_viewer.php:187
+#: spam_viewer.php:268
+msgid "Content"
+msgstr "съдържание"
+
+#: spam_viewer.php:188
+#: spam_viewer.php:269
+msgid "IP"
+msgstr "IP"
+
+#: spam_viewer.php:203
+#: spam_viewer.php:284
+msgid "More Informations over IP:"
+msgstr "Още Информация Over IP:"
+
+#: spam_viewer.php:249
+#: spam_viewer.php:337
+msgid "Top"
+msgstr "Top"
+
+#: spam_viewer.php:253
+msgid "Comment-Spam"
+msgstr "Comment-Spam"
+
+#: spam_viewer.php:257
+msgid "maybe no Spam"
+msgstr "може би няма спам"
+
+#: spam_viewer.php:343
+msgid "For further information or to grab the latest version of this plugin, visit the <a href='http://bueltge.de/wp-spamviewer-zum-loeschen-und-retten-von-spam/255' title='to the plugin-website' >plugin's homepage</a>."
+msgstr "За допълнителна информация или да вземете най-новата версия на този плъгин, посетете <А HREF = \"http://bueltge.de/wp-spamviewer-zum-loeschen-und-retten-von-spam/255\" > плъгин началната страница </A>."
+
+#: spam_viewer.php:343
+msgid "to the Website"
+msgstr "Уебсайта"
+
+#: spam_viewer.php:343
+msgid "Want to say thank you? Visit my <a href='http://bueltge.de/wunschliste/' title='to the wishlist' >wishlist</a>."
+msgstr "Искате ли да кажа, благодаря ви? Посетете <a href='http://bueltge.de/wunschliste/' title='to на wishlist'> желани </A>."
+

@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spam-Viewer in italiano\n"
+"Last-Translator: Brian Flores <baflores@gmail.com>\n"
+"Language-Team: gidibao.net <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: spam_viewer.php:24
+msgid "from"
+msgstr "De"
+
+#: spam_viewer.php:82
+msgid "Spam comments destroyed!"
+msgstr "¡Los comentarios Spam han sido destruidos!"
+
+#: spam_viewer.php:96
+msgid "Trackback-Spamentries destroyed!"
+msgstr "¡Las entradas Trackback-Spam han sido destruidos!"
+
+#: spam_viewer.php:106
+msgid "No comments selected."
+msgstr "Ningún comentario ha sido seleccionado."
+
+#: spam_viewer.php:118
+#, php-format
+msgid "%s entry unspam."
+msgstr "%s de entrada unspam."
+
+#: spam_viewer.php:120
+#, php-format
+msgid "%s entries unspam."
+msgstr "%s de entradas unspam."
+
+#: spam_viewer.php:127
+msgid "Spam Viewer"
+msgstr "Spam Viewer"
+
+#: spam_viewer.php:130
+msgid "The Spam Viewer allows you to delete or rescue any comments marked as Spam out of your database.<br />"
+msgstr "El Spam Viewer te permite borrar o rescatar cualquier comentario marcado como Spam dentro de tu base de datos.<br/>"
+
+#: spam_viewer.php:131
+msgid "<strong>Warning: Once started, deletion cannot be cancelled.</strong><br />"
+msgstr "<strong>Advertencia: Una vez iniciado el proceso de eliminación, éste no podrá ser cancelado.</strong><br/>"
+
+#: spam_viewer.php:132
+msgid "All comments marked as Spam in the WordPress table <em>comments</em> is listed below"
+msgstr "Todos los comentarios marcados como Spam en la tabla del WordPress <em>comments</em> han sido listados a continuación"
+
+#: spam_viewer.php:134
+msgid " and from the plugin <a href='http://seclab.cs.rice.edu/proj/trackback/trackback-validator-plugin/'>Trackback Validator</a> in the table <em>wp_data</em>"
+msgstr "y del plugin <a href='http://seclab.cs.rice.edu/proj/trackback/trackback-validator-plugin/'>Trackback Validator</a> en la tabla <em>wp_data</em>"
+
+#: spam_viewer.php:139
+msgid "<strong>Congratulations</strong>, you are free of Spam!"
+msgstr "<strong>Felicitaciones</strong>, ¡no tienes Spam!"
+
+#: spam_viewer.php:145
+msgid "There currently are no trackback spams"
+msgstr "Actualmente no hay trackback spams"
+
+#: spam_viewer.php:147
+msgid "The current total is:"
+msgstr "El total actual es:"
+
+#: spam_viewer.php:147
+#: spam_viewer.php:153
+msgid "to the entry"
+msgstr "a la entrada"
+
+#: spam_viewer.php:147
+#: spam_viewer.php:149
+msgid "Trackback"
+msgstr "Trackback"
+
+#: spam_viewer.php:149
+msgid "The current total is"
+msgstr "El total actual es"
+
+#: spam_viewer.php:149
+#: spam_viewer.php:155
+msgid "to the entries"
+msgstr "a las entradas"
+
+#: spam_viewer.php:151
+msgid " and no comments identified as Spam."
+msgstr "y no hay comentarios identificados como Spam."
+
+#: spam_viewer.php:153
+#: spam_viewer.php:155
+msgid " and"
+msgstr "y"
+
+#: spam_viewer.php:153
+msgid "comment"
+msgstr "comenta"
+
+#: spam_viewer.php:153
+#: spam_viewer.php:155
+msgid "identified as Spam."
+msgstr "Identificado como Spam."
+
+#: spam_viewer.php:155
+msgid "comments"
+msgstr "comentarios"
+
+#: spam_viewer.php:160
+msgid "Trackback-Spam - All delete!"
+msgstr "Trackback-Spam - ¡Todos han sido eliminados! "
+
+#: spam_viewer.php:166
+msgid "Comment Spam - Delete All!&nbsp;"
+msgstr "Comentarios Spam – Eliminarlos todos !&nbsp; "
+
+#: spam_viewer.php:175
+msgid "Trackback-Spam"
+msgstr "Trackback-Spam"
+
+#: spam_viewer.php:178
+#: spam_viewer.php:248
+#: spam_viewer.php:259
+#: spam_viewer.php:336
+msgid "Unspam me!"
+msgstr "¡Unspam me!"
+
+#: spam_viewer.php:182
+#: spam_viewer.php:263
+msgid "Unspam?"
+msgstr "¿Unspam?"
+
+#: spam_viewer.php:183
+#: spam_viewer.php:264
+msgid "ID"
+msgstr "ID"
+
+#: spam_viewer.php:184
+#: spam_viewer.php:265
+msgid "Post-ID"
+msgstr "Entrada-ID"
+
+#: spam_viewer.php:185
+#: spam_viewer.php:266
+msgid "Author"
+msgstr "Autor"
+
+#: spam_viewer.php:186
+#: spam_viewer.php:267
+msgid "URL"
+msgstr "URL"
+
+#: spam_viewer.php:187
+#: spam_viewer.php:268
+msgid "Content"
+msgstr "Contenido"
+
+#: spam_viewer.php:188
+#: spam_viewer.php:269
+msgid "IP"
+msgstr "IP"
+
+#: spam_viewer.php:203
+#: spam_viewer.php:284
+msgid "More Informations over IP:"
+msgstr "Más Información sobre IP (Protocolo de Internet):"
+
+#: spam_viewer.php:249
+#: spam_viewer.php:337
+msgid "Top"
+msgstr "Arriba"
+
+#: spam_viewer.php:253
+msgid "Comment-Spam"
+msgstr "Comentario-Spam"
+
+#: spam_viewer.php:257
+msgid "maybe no Spam"
+msgstr "tal vez no es Spam"
+
+#: spam_viewer.php:343
+msgid "For further information or to grab the latest version of this plugin, visit the <a href='http://bueltge.de/wp-spamviewer-zum-loeschen-und-retten-von-spam/255' title='to the plugin-website' >plugin's homepage</a>."
+msgstr "Para mayor información o para descargar la ultima versión de este plugin, visita<a href='http://bueltge.de/wp-spamviewer-zum-loeschen-und-retten-von-spam/255' title='to the plugin-website' >plugin's homepage</a>."
+
+#: spam_viewer.php:343
+msgid "to the Website"
+msgstr "a la Página Web"
+
+#: spam_viewer.php:343
+msgid "Want to say thank you? Visit my <a href='http://bueltge.de/wunschliste/' title='to the wishlist' >wishlist</a>."
+msgstr "¿Quieres darme las gracias? Visita <a href='http://bueltge.de/wunschliste/' title='to the wishlist' >wishlist</a>. "
+
